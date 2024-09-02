@@ -25,7 +25,7 @@ A web browser is required to view and play the game.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/connect-four.git
+    git clone https://github.com/dhrumilcpatel/connect-four.git
     ```
 
 2. **Navigate to the project directory**:
